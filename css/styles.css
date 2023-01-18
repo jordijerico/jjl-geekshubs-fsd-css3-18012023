@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(121, 209, 209);
+}
+
+#div1 {
+    background-color: orange;
+    height: 15vh;
+}
+
+#div2 {
+    background-color: red;
+    height: 85vh;
+    float: left;
+    width: 10vw;
+}
+
+#div3 {
+    background-color: green;
+    height: 85vh;
+    float: left;
+    width: 90vw;
+}
+
